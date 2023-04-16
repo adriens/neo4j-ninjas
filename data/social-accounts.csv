@@ -1,6 +1,6 @@
-display_name,linkedin_handle,neo4j_community_handle
-Maxime Guery,maxime-guery,cobra
-Adrien Sales,adrien-sales,adriens
-Elena Kohlwey,elena-kohlwey-00924a14b,elena_kohlwey
-Arthur Namias de Crasto,arthur-namias-de-crasto-49613414,arthurnamiasdecrasto
-Michael McKenzie,mckenzma,mckenzma 
+display_name,gender,linkedin_handle,neo4j_community_handle
+Maxime Guery,Male,maxime-guery,cobra
+Adrien Sales,Male,adrien-sales,adriens
+Elena Kohlwey,Female,elena-kohlwey-00924a14b,elena_kohlwey
+Arthur Namias de Crasto,Male,arthur-namias-de-crasto-49613414,arthurnamiasdecrasto
+Michael McKenzie,Male,mckenzma,mckenzma 

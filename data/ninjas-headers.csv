@@ -1,7 +1,7 @@
 id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 1,Maxime Guery,France,France,FRA,https://dist.neo4j.com/wp-content/uploads/20230130163051/Maxime_Guery_Ninja.jpg
 2,Elena Kohlwey,"Cologne, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230301094803/Elena-Kohlwey-Ninja1.jpg
-3,Arthur Namias de Crasto,Curaçao,"",CUW,https://dist.neo4j.com/wp-content/uploads/20230130164102/Arthur_Namias.jpg
+3,Arthur Namias de Crasto,Curaçao,Curaçao,CUW,https://dist.neo4j.com/wp-content/uploads/20230130164102/Arthur_Namias.jpg
 4,Michael McKenzie,"Virginia, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130164809/Michael_McKenzie_Ninja.jpg
 5,Estelle Scifo,France,France,FRA,https://dist.neo4j.com/wp-content/uploads/20230130165246/Estelle_Scifo_Ninja2023.jpg
 6,Eric Solender,"Pittsburg, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130165713/Eric_Solender_Ninja.jpg

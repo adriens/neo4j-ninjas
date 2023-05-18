@@ -52,9 +52,9 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 51,Antonio Origlia,"Naples, Italy",Italy,ITA,https://dist.neo4j.com/wp-content/uploads/20230130194434/Antonio_Origlia_Ninja.jpg
 52,Vlad Batushkov,Thailand,Thailand,THA,https://dist.neo4j.com/wp-content/uploads/20230130193705/Vlad_Batushkov_Ninja.jpg
 53,Tomaz Bratanic,Slovenia,Slovenia,SVN,https://dist.neo4j.com/wp-content/uploads/20230130192803/Tomaz_Bratanic_Ninja.jpg
-54,Alexandre Podar,"São Paulo, Brazil",,BRA,https://dist.neo4j.com/wp-content/uploads/20230130193001/Alexandre_Poda_Ninja.png
+54,Alexandre Podar,"São Paulo, Brazil",Brazil,BRA,https://dist.neo4j.com/wp-content/uploads/20230130193001/Alexandre_Poda_Ninja.png
 55,Dairon Perez,Cuba,Cuba,CUB,https://dist.neo4j.com/wp-content/uploads/20230130193055/Dairon_Perez_Ninja.jpg
-56,Neylson Crepalde,"São Paulo, Brazil",,BRA,https://dist.neo4j.com/wp-content/uploads/20230130193156/Neylson_Crepalde_Ninja.jpg
+56,Neylson Crepalde,"São Paulo, Brazil",Brazil,BRA,https://dist.neo4j.com/wp-content/uploads/20230130193156/Neylson_Crepalde_Ninja.jpg
 57,Sergio Haro,Mexico,Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230130194531/Sergio_Haro_Ninja.png
 58,Agung Raka Wibawa,Indonesia,Indonesia,IDN,https://dist.neo4j.com/wp-content/uploads/20230130194720/Agung-Raka-Wibawa-Ninja1.jpg
 59,Charchit Kapoor,India,India,IND,https://dist.neo4j.com/wp-content/uploads/20230130194914/Charchit-Kapoor-Ninja.jpg
@@ -68,7 +68,7 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 67,Bhavesh Bhatt,"Mumbai, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230216155800/Bhavesh_Bhatt_Ninja.jpeg
 68,Tom Nijhof,Netherlands,United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230222170127/Tom-Nijhof-Ninja.png
 69,Jose Bacoy,"Virginia, US",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230302160919/Jose-Bacoy-Ninja.jpg
-70,Adrien Sales,"Nouméa, New Caledonia",,NCL,https://dist.neo4j.com/wp-content/uploads/20230306141013/Adrien-Sales-Ninja.png
+70,Adrien Sales,"Nouméa, New Caledonia",New Caledonia,NCL,https://dist.neo4j.com/wp-content/uploads/20230306141013/Adrien-Sales-Ninja.png
 71,Soren-Klein,"Dresden, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230306141735/Soren-Klein-Ninja.png
 72,Piotr Blaszczyk,"Wrocław, Pologne",Poland,POL,https://dist.neo4j.com/wp-content/uploads/20230306142001/Piotr-Blaszczyk-Ninja1.jpg
 73,Vincent Rupp,"Boston, US",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230328090944/Vincent-Rupp-Ninja.jpg

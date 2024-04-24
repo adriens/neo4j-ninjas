@@ -3,12 +3,12 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 2,Elena Kohlwey,"Cologne, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230301094803/Elena-Kohlwey-Ninja1.jpg
 3,Arthur Namias de Crasto,Curaçao,Curaçao,CUW,https://dist.neo4j.com/wp-content/uploads/20230130164102/Arthur_Namias.jpg
 4,Michael McKenzie,"Virginia, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130164809/Michael_McKenzie_Ninja.jpg
-5,Estelle Scifo,France,France,FRA,https://dist.neo4j.com/wp-content/uploads/20230130165246/Estelle_Scifo_Ninja2023.jpg
+5,Benjamin Chu,Singapore,Singapore,SGP,https://dist.neo4j.com/wp-content/uploads/20230328092306/Benjamin_Chu_Ninja.png
 6,Eric Solender,"Pittsburg, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130165713/Eric_Solender_Ninja.jpg
 7,Ghlen Nagels,Belgium,Belgium,BEL,https://dist.neo4j.com/wp-content/uploads/20230130170555/Ghlen_Nagels_Ninja.jpg
 8,Gabriel Tardif,Canada,Canada,CAN,https://dist.neo4j.com/wp-content/uploads/20230130170932/Gabriel_Tardif_Ninja3.jpg
 9,Robert Piombino,"Minnesota, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130171234/Robert_Piombino_Ninja.jpg
-10,Michael Black,"Salt Lake City, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130171515/Michael_Black_Ninja.jpg
+10,Chintan Desai,"Maharashtra, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230412161131/Chintan-Desay.jpg
 11,Niklas Saers,Denmark,Denmark,DNK,https://dist.neo4j.com/wp-content/uploads/20230130171805/Niklas_Saers_Ninja.jpg
 12,Luis Eduardo Almazan,Mexico,Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230130172248/Luis_Eduardo_Almazan_Ninjas.png
 13,Gal Engelberg,Israel,Israel,ISR,https://dist.neo4j.com/wp-content/uploads/20230130172447/Gal_Engelberg_Ninjas1.png
@@ -27,7 +27,7 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 26,Alejandro Puerto,"Mérida, Mexico",Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230130180642/Alejandro_Puerto_Ninja1.png
 27,Sean Robinson,"Chicago, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130180837/Sean_Robinson_Ninja.png
 28,Tawanda Ewing,South Africa,Australia,AUS,https://dist.neo4j.com/wp-content/uploads/20230131102406/Tawanda_Ewing_Ninjas1.jpg.png
-29,Justin Napolitano,"Houston, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130181327/Justin_Napolitano_Ninja.jpg
+29,Vincent Rupp,"Boston, US",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230328090944/Vincent-Rupp-Ninja.jpg
 30,Djordje Benn Maksimovic,"Berlin, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230130181440/Djordje_Benn-Maksimovic_Ninjas1.jpg
 31,Fatjan Lala,"Basel, Switzerland",Switzerland,CHE,https://dist.neo4j.com/wp-content/uploads/20230130181858/Fatjan_Lala.jpg
 32,Ido Faran,Israel,Israel,ISR,https://dist.neo4j.com/wp-content/uploads/20230130181940/ido_Faran_Ninja2.png
@@ -38,9 +38,9 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 37,Donovan Bergin,"Arkansas, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130182827/Donovan_Bergin_Ninja2.png
 38,Filippo Minutella,"Venice, Italy",Italy,ITA,https://dist.neo4j.com/wp-content/uploads/20230130182939/Filippo_Minutella_Ninja.png
 39,Koji Annoura,Japan,Japan,JPN,https://dist.neo4j.com/wp-content/uploads/20180604124541/KojiAnnoura_200x200.jpg
-40,Trinette Brownhill,"Houston, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130183248/Trinette_Brownhill_Ninja2.png
+40,Isaac Ruiz Guerra,"Mexico City, Mexico",Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230518104228/Isaac-Ruiz-Guerra.png
 41,Véronique Gendner,"Paris, France",France,FRA,https://dist.neo4j.com/wp-content/uploads/20230705032150/Ve%CC%81ronique-Gendner-Ninja.jpg
-42,Mananai Saengsuwan,Thailand,Thailand,THA,https://dist.neo4j.com/wp-content/uploads/20230130183926/Mananai_Saengsuwan_Ninja.jpg
+42,Ponciano Barrios,"Monterey, Mexico",Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230615225118/1626031240313.jpg
 43,Dave Aitel,"Miami, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230613001937/Dave-Aitel-Ninja.jpg
 44,Jamie Gaskins,"Baltimore, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130184114/Jamie_Gaskins_Ninja.jpg
 45,Drabo Constantin,"Ouagadougou, Burkina Faso",Burkina Faso,BFA,https://dist.neo4j.com/wp-content/uploads/20230130184509/Drabo_Constantin_Ninja.jpg
@@ -56,11 +56,11 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 55,Dairon Perez,Cuba,Cuba,CUB,https://dist.neo4j.com/wp-content/uploads/20230130193055/Dairon_Perez_Ninja.jpg
 56,Neylson Crepalde,"São Paulo, Brazil",Brazil,BRA,https://dist.neo4j.com/wp-content/uploads/20230130193156/Neylson_Crepalde_Ninja.jpg
 57,Sergio Haro,Mexico,Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230130194531/Sergio_Haro_Ninja.png
-58,Agung Raka Wibawa,Indonesia,Indonesia,IDN,https://dist.neo4j.com/wp-content/uploads/20230130194720/Agung-Raka-Wibawa-Ninja1.jpg
+58,Will Charles,"Oxford, UK",United Kingdom,GBR,https://dist.neo4j.com/wp-content/uploads/20230706112707/Will-Charles-Ninja.jpg
 59,Charchit Kapoor,India,India,IND,https://dist.neo4j.com/wp-content/uploads/20230130194914/Charchit-Kapoor-Ninja.jpg
 60,Yogesh Kulkarni,India,India,IND,https://dist.neo4j.com/wp-content/uploads/20230130195005/Yogesh_H_Kulkarni_Ninja.png
 61,Thomas Larsen,"North Carolina, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130200119/Thomas_Larsen_Ninja.png
-62,Irsyad Adam,"Los Angeles, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130200307/Irsyad_Adam_Ninja.jpg
+62,Zach Probst,"San Diego, US",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230809170816/Zach-Probst-Ninja.jpg
 63,Joel_Duerksen,"Orlando, Florida",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130200405/Joel_Duerksen_Ninja1.jpg
 64,Gabriel Matei Toma,Belgium,Belgium,BEL,https://dist.neo4j.com/wp-content/uploads/20230130200543/Gabriel_Toma_Ninja.png
 65,Christophe Willemsen,"Lecce, Italy",Italy,ITA,https://dist.neo4j.com/wp-content/uploads/20170617222625/christophe-willemsen-senior-consultant-graphaware.jpg
@@ -71,13 +71,6 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 70,Adrien Sales,"Nouméa, New Caledonia",New Caledonia,NCL,https://dist.neo4j.com/wp-content/uploads/20230306141013/Adrien-Sales-Ninja.png
 71,Soren-Klein,"Dresden, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230306141735/Soren-Klein-Ninja.png
 72,Piotr Blaszczyk,"Wrocław, Pologne",Poland,POL,https://dist.neo4j.com/wp-content/uploads/20230306142001/Piotr-Blaszczyk-Ninja1.jpg
-73,Vincent Rupp,"Boston, US",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230328090944/Vincent-Rupp-Ninja.jpg
-74,Benjamin Chu,Singapore,Singapore,SGP,https://dist.neo4j.com/wp-content/uploads/20230328092306/Benjamin_Chu_Ninja.png
-75,Chintan Desai,"Maharashtra, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230412161131/Chintan-Desay.jpg
-76,Isaac Ruiz Guerra,"Mexico City, Mexico",Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230518104228/Isaac-Ruiz-Guerra.png
-77,Ponciano Barrios,"Monterey, Mexico",Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230615225118/1626031240313.jpg
-78,Will Charles,"Oxford, UK",United Kingdom,GBR,https://dist.neo4j.com/wp-content/uploads/20230706112707/Will-Charles-Ninja.jpg
-79,Zach Probst,"San Diego, US",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230809170816/Zach-Probst-Ninja.jpg
-80,Adityendra Kumar Singh,"Gurugram, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230131095649/Adityendra_Kumar_Singh_Ninja.jpg
-81,Henock Tshibanda,Democratic Republic of Congo,Democratic Republic of the Congo,COD,https://dist.neo4j.com/wp-content/uploads/20230131095842/Henock_Tshibanda_Ninja.jpg
-82,Sanjay Singh,"Jhansi, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230131100540/Adityendra_Kumar_Singh_Ninja.png
+73,Adityendra Kumar Singh,"Gurugram, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230131095649/Adityendra_Kumar_Singh_Ninja.jpg
+74,Henock Tshibanda,Democratic Republic of Congo,Democratic Republic of the Congo,COD,https://dist.neo4j.com/wp-content/uploads/20230131095842/Henock_Tshibanda_Ninja.jpg
+75,Sanjay Singh,"Jhansi, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230131100540/Adityendra_Kumar_Singh_Ninja.png

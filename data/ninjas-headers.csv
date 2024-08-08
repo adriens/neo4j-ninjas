@@ -31,7 +31,7 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 30,Djordje Benn Maksimovic,"Berlin, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230130181440/Djordje_Benn-Maksimovic_Ninjas1.jpg
 31,Fatjan Lala,"Basel, Switzerland",Switzerland,CHE,https://dist.neo4j.com/wp-content/uploads/20230130181858/Fatjan_Lala.jpg
 32,Ido Faran,Israel,Israel,ISR,https://dist.neo4j.com/wp-content/uploads/20230130181940/ido_Faran_Ninja2.png
-33,Nikita Wootten,"Baltimore, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130182142/Nikita_Wootten_Ninja.jpg
+33,Joakim Nilsson,"Malmo, Sweden",Sweden,SWE,https://dist.neo4j.com/wp-content/uploads/20240807164225/Joakim_Nilsson.jpg
 34,Ron van Weverwijk,"Utrecht, Netherlands",Netherlands,NLD,https://dist.neo4j.com/wp-content/uploads/20160912135453/ron-van-weverwijk-2016.jpg
 35,Mark Heckler,"Illinois, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130182310/Mark_Heckler_Ninja1.jpg
 36,Olga Kogan,Israel,Israel,ISR,https://dist.neo4j.com/wp-content/uploads/20230130182417/Olga_Kogan_Ninja1.jpg
@@ -71,6 +71,3 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 70,Adrien Sales,"Nouméa, New Caledonia",New Caledonia,NCL,https://dist.neo4j.com/wp-content/uploads/20230306141013/Adrien-Sales-Ninja.png
 71,Soren-Klein,"Dresden, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230306141735/Soren-Klein-Ninja.png
 72,Piotr Blaszczyk,"Wrocław, Pologne",Poland,POL,https://dist.neo4j.com/wp-content/uploads/20230306142001/Piotr-Blaszczyk-Ninja1.jpg
-73,Adityendra Kumar Singh,"Gurugram, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230131095649/Adityendra_Kumar_Singh_Ninja.jpg
-74,Henock Tshibanda,Democratic Republic of Congo,Democratic Republic of the Congo,COD,https://dist.neo4j.com/wp-content/uploads/20230131095842/Henock_Tshibanda_Ninja.jpg
-75,Sanjay Singh,"Jhansi, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230131100540/Adityendra_Kumar_Singh_Ninja.png

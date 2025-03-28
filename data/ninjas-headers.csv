@@ -3,11 +3,11 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 2,Elena Kohlwey,"Cologne, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230301094803/Elena-Kohlwey-Ninja1.jpg
 3,Arthur Namias de Crasto,Curaçao,Curaçao,CUW,https://dist.neo4j.com/wp-content/uploads/20230130164102/Arthur_Namias.jpg
 4,Michael McKenzie,"Virginia, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130164809/Michael_McKenzie_Ninja.jpg
-5,Benjamin Chu,Singapore,Singapore,SGP,https://dist.neo4j.com/wp-content/uploads/20230328092306/Benjamin_Chu_Ninja.png
+5,Ashok Vishwakarma,"Delhi, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20250326085937/Ashok-Neo4j-Ninja.jpg
 6,Tim Eastridge,"Charlotte, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20240514194733/Screenshot-2023-05-28-205551.png
 7,Ghlen Nagels,Belgium,Belgium,BEL,https://dist.neo4j.com/wp-content/uploads/20230130170555/Ghlen_Nagels_Ninja.jpg
 8,Gabriel Tardif,Canada,Canada,CAN,https://dist.neo4j.com/wp-content/uploads/20230130170932/Gabriel_Tardif_Ninja3.jpg
-9,Robert Piombino,"Minnesota, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130171234/Robert_Piombino_Ninja.jpg
+9,Abhishek Das,"Bengaluru, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20250326083422/Abhishek-Das-Neo4j-Ninja.jpg
 10,Chintan Desai,"Maharashtra, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230412161131/Chintan-Desay.jpg
 11,Niklas Saers,Denmark,Denmark,DNK,https://dist.neo4j.com/wp-content/uploads/20230130171805/Niklas_Saers_Ninja.jpg
 12,Luis Eduardo Almazan,Mexico,Mexico,MEX,https://dist.neo4j.com/wp-content/uploads/20230130172248/Luis_Eduardo_Almazan_Ninjas.png
@@ -19,7 +19,7 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 18,David Hughes,"Seattle, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230208170230/David-Hughes-Ninja.jpg
 19,Siraj Munir,"Marches, Italy",Italy,ITA,https://dist.neo4j.com/wp-content/uploads/20230130173520/Siraj_Munir_Ninja2.png
 20,Gary Lilienfield,"Virginia, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130173602/Gary_Lilienfield_Ninja1.jpg
-21,Sebastian Daschner,"Munich, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230130173855/Sebastian_Daschner_Ninja.jpg
+21,Stephen Mc Gowan,"Sydney, Australia",Australia,AUS,https://dist.neo4j.com/wp-content/uploads/20250326083716/Stephen-Mc-Gowan-Neo4j-Ninja.jpg
 22,Astrid Mochtarram,"Berlin, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230130174153/Astrid_Mochtarram_Ninja1-1.jpg
 23,Jan Žák,"Prague, Czech Republic",Czech Republic,CZE,https://dist.neo4j.com/wp-content/uploads/20230130174249/Jan_Zak_Ninja1.jpg
 24,Mehul Gupta,"Hyderabad, India",India,IND,https://dist.neo4j.com/wp-content/uploads/20230130174612/Mehul_Gupta_Ninja.jpg
@@ -30,7 +30,7 @@ id,display_name,raw_location,guessed_country,guessed_country_iso3,url_img
 29,Vincent Rupp,"Boston, US",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230328090944/Vincent-Rupp-Ninja.jpg
 30,Djordje Benn Maksimovic,"Berlin, Germany",Germany,DEU,https://dist.neo4j.com/wp-content/uploads/20230130181440/Djordje_Benn-Maksimovic_Ninjas1.jpg
 31,Fatjan Lala,"Basel, Switzerland",Switzerland,CHE,https://dist.neo4j.com/wp-content/uploads/20230130181858/Fatjan_Lala.jpg
-32,Ido Faran,Israel,Israel,ISR,https://dist.neo4j.com/wp-content/uploads/20230130181940/ido_Faran_Ninja2.png
+32,Antonio Spiezia,Canada,Canada,CAN,https://dist.neo4j.com/wp-content/uploads/20250326091901/Antonio-Spiezia-Neo4j-Ninja.jpg
 33,Joakim Nilsson,"Malmo, Sweden",Sweden,SWE,https://dist.neo4j.com/wp-content/uploads/20240807164225/Joakim_Nilsson.jpg
 34,Ron van Weverwijk,"Utrecht, Netherlands",Netherlands,NLD,https://dist.neo4j.com/wp-content/uploads/20160912135453/ron-van-weverwijk-2016.jpg
 35,Mark Heckler,"Illinois, United States",United States of America,USA,https://dist.neo4j.com/wp-content/uploads/20230130182310/Mark_Heckler_Ninja1.jpg
